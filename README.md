@@ -29,8 +29,6 @@
 
 ##  About Me
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=niftydiran&layout=compact&theme=radical" />
-
 `	ypescript
 const diran = {
     role: "AI Engineer",
@@ -457,5 +455,6 @@ Jain University, Bengaluru
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
+
 
 
