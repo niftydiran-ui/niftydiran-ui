@@ -271,9 +271,70 @@ Reinforcement Learning LSTM FastAPI
 <br/>
 
 ##  Professional Experience
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Agentic AI / GenAI Engineer**  
+**Delta Dental** | Oak Brook, IL | Aug 2025 – Feb 2026  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Software Engineer – Data & Cloud Analytics**  
-**V dot Technologies** |  Bengaluru, India |  Oct 2022 – Aug 2023
+<table>
+<tr>
+
+<td width="50%">
+
+** Technical Achievements**
+- Designed **multi-agent AI workflows** on AWS Bedrock (planner, executor, reviewer)
+- Built **RAG pipelines** using FAISS, Pinecone, and pgvector for genomic data
+- Developed **NL2SQL systems** using OpenAI & Claude via Bedrock
+- Implemented **LangChain + LangGraph orchestration pipelines**
+- Applied **DSPy for prompt optimization** and stability
+- Built **agent observability** using CloudWatch & MLflow
+
+</td>
+
+<td width="50%">
+
+** Business Impact**
+- Automated genomic data analysis workflows for research teams  
+- Improved **AI response consistency & reliability**  
+- Enabled natural language querying for complex datasets  
+- Reduced manual analysis effort via AI automation  
+- Established scalable **agent architecture & reusable components**
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Junior Data Scientist**  
+**HCL Technologies** | Hyderabad, India | Oct 2021 – Jul 2023  
+
+<table>
+<tr>
+
+<td width="50%">
+
+** Technical Achievements**
+- Built ML models for **credit risk prediction & segmentation**
+- Used **XGBoost, Scikit-learn, regression & classification models**
+- Developed **Spark-based big data pipelines** on Hadoop
+- Performed feature engineering & EDA for banking datasets
+- Created dashboards using Tableau & Matplotlib
+
+</td>
+
+<td width="50%">
+
+** Business Impact**
+- Improved credit risk decision-making for banking clients  
+- Reduced processing time using distributed Spark pipelines  
+- Enhanced model performance & interpretability  
+- Supported regulatory reporting & compliance  
+- Enabled data-driven portfolio risk strategies  
+
+</td>
+
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Software Engineer **  
+**V dot Technologies** |  Bengaluru, India |  Oct 2020 – Sep 2021
 
 <table>
 <tr>
