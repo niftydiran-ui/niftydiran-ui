@@ -369,7 +369,6 @@ Reinforcement Learning LSTM FastAPI
 
 ** Master of Science in Data Science**  
 University of Wisconsin-Milwaukee  
- GPA: 3.8/4.0
 
 *Deep Learning  NLP  Neural Networks  Reinforcement Learning  AI Ethics*
 
