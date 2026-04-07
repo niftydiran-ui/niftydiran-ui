@@ -453,7 +453,7 @@ Jain University, Bengaluru
 <a href="tel:+13314251963">
   <img src="https://img.shields.io/badge/_Phone-(331)%20425--1963-25D366?style=for-the-badge&labelColor=1a1a2e&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/diran-dodda">
+<a href="https://www.linkedin.com/in/diran-dodda-156824326">
   <img src="https://img.shields.io/badge/_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=1a1a2e&logo=linkedin&logoColor=white" />
 </a>
 
